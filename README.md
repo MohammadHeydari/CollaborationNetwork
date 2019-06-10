@@ -11,5 +11,6 @@ Construction and Analysis of Collaboration Network of Software Engineering and I
  ![Hubs](https://github.com/MohammadHeydari/CollaborationNetwork/blob/master/Graph%20Hubs.png)
  # Based on Fruchterman Reingold Layout
  ![](https://github.com/MohammadHeydari/CollaborationNetwork/blob/master/Graph%20Visualization.png)
+ # Based on Labeled Fruchterman Reingold Layout
  ![](https://github.com/MohammadHeydari/CollaborationNetwork/blob/master/Untitled.png)
  
