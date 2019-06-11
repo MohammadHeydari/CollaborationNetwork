@@ -15,6 +15,8 @@ on the shoulder of Network Science method I already analyzed the graph among the
 * Density: 0.011 (Not So dense but spars)
 * Diameter: 12 (Too much i guess)
 * Clustering Coefficient: 0.298
+## Data
+I already extracted data from Researchgate website which is known as a academic social network.
 ## Degree Distribution
 ![](https://github.com/MohammadHeydari/CollaborationNetwork/blob/master/Degree_Distributions.png)
 ## Communities of the Graph
