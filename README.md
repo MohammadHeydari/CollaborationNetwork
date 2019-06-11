@@ -1,6 +1,10 @@
 # CollaborationNetwork
 Construction and Analysis of Collaboration Network of Software Engineering and Information Technology Academic Activists. Goal: The goal of project is to determine communities of persons who work on the specified fields and identify the notable hot topics around them plus most known persons based on Network Science methods. our study focused on Iranian Academic Activists.
-
+## To implement the project you need to install:
+* Python
+* NetworkX Library
+* Pandas Library
+* Gephi (For analyzing the grpah)
 ## Social Network Analysis (SNA) Methods 
 on the shoulder of Network Science method I already analyzed the graph among them network centralities, community detection and other important graph features.
 ### Graph Features
