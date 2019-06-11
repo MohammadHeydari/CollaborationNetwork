@@ -5,6 +5,7 @@ Construction and Analysis of Collaboration Network of Software Engineering and I
 * NetworkX Library
 * Pandas Library
 * Gephi (For analyzing the grpah)
+* I Recommend you to install anaconda distribution to have collection of useful data science libraries together.
 ## Social Network Analysis (SNA) Methods 
 on the shoulder of Network Science method I already analyzed the graph among them network centralities, community detection and other important graph features.
 ### Graph Features
