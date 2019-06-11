@@ -16,6 +16,8 @@ on the shoulder of Network Science method I already analyzed the graph among the
 * Clustering Coefficient: 0.298
 ## Degree Distribution
 ![](https://github.com/MohammadHeydari/CollaborationNetwork/blob/master/Degree_Distributions.png)
+## Communities of the Graph
+![](https://github.com/MohammadHeydari/CollaborationNetwork/blob/master/Modularity_Community.png)
 # Visualization of The Network
  Network Visualization based on Degree Centrality in Circular layout in Gephi
  ## Labeled Graph
