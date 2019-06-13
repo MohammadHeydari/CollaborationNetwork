@@ -17,6 +17,8 @@ on the shoulder of Network Science method I already analyzed the graph among the
 * Clustering Coefficient: 0.298
 ## Data
 I already extracted data from Researchgate website which is known as a academic social network.
+## Hot topics 
+![](https://github.com/MohammadHeydari/CollaborationNetwork/blob/master/HotTopic.png)
 ## Degree Distribution
 ![](https://github.com/MohammadHeydari/CollaborationNetwork/blob/master/Degree_Distributions.png)
 ## Communities of the Graph
